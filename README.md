@@ -19,7 +19,7 @@ die neusten Updates inklusive.
 - Direktzugriff auf den Projekt TikTok Account
 - Newsfeld
 - Textfeld
-- 
+  
 ---------------------------------------------------------------------------
 ### Installation ###
 Die Offizielle Version hat alle benötigten SDK´s an Bord.
@@ -31,5 +31,4 @@ Um den Launcher zu starten muss nur die Syndicate V Launcher.exe gestartet werde
 Soon ...
 
 ---------------------------------------------------------------------------
-Created by NoxiZ95 (bb-development / Syndicate V [FiveM]
-Version 0.x_DEV_0199
+Created by NoxiZ95 (bb-development / Syndicate V [FiveM] | Version 0.x_DEV_0199
