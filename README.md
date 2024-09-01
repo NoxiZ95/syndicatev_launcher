@@ -28,7 +28,8 @@ Um den Launcher zu starten muss nur die Syndicate V Launcher.exe gestartet werde
 
 ---------------------------------------------------------------------------
 ### Updates ###
-Soon ...
+Update v0.2.0200
+- Hintergrundmusik hinzugefügt
 
 ---------------------------------------------------------------------------
 Created by NoxiZ95 (bb-development / Syndicate V [FiveM] | Version 0.x_DEV_0199
