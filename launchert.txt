@@ -4,12 +4,11 @@ Funktionen
 - Direktverbindung zum Game Server Syndicate V
 - Direktverbindung zum Handbuch des Servers
 - Direktverbindung zum Discord Server von Syndicate V
-- Direktverbindung zur Webseite
 - News Container
+- Release Countdown
 
 Bekannte Probleme
 - Game Server Link öffnet den Browser
-- Webseite (Offen ob weiter genutzt)
 
 Version 0.x_DEV
 Scriptsprache: C# mit WindowsForms
