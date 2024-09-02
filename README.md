@@ -31,6 +31,7 @@ Um den Launcher zu starten muss nur die Syndicate V Launcher.exe gestartet werde
 Update v0.2.0250
 - Codebereinigung
 - Einige Funktionen bis zum nächsten Update deaktiviert
+  
 Update v0.2.0200
 - Hintergrundmusik hinzugefügt
 
