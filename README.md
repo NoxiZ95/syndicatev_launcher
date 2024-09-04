@@ -1,6 +1,4 @@
-Coded in C# with Visual Studio Code | Dependencies: .NET 8.0 SDK Win-x64 ( Included in Official Release! )
-
-.NET 8.0 SDK Windows x64: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.401-windows-x64-installer
+Coded in C# with Visual Studio Code | .NET 8.0 SDK Win-x64 | Standalone
 
 ![alt text](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/svl_logo.png)
 
@@ -19,6 +17,7 @@ die neusten Updates inklusive.
 - Direktzugriff auf den Projekt TikTok Account
 - Newsfeld
 - Textfeld
+- Hintergrundmusik mit Mute Funktion
   
 ---------------------------------------------------------------------------
 ### Installation ###
