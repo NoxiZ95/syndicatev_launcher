@@ -1,6 +1,6 @@
 Coded in C# with Visual Studio Code | .NET 8.0 SDK Win-x64 | Standalone
 
-![alt text](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/svl_logo.png)
+![alt text]([https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/svl_logo.png](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/sv_show.png))
 
 ---------------------------------------------------------------------------
 ### Syndicate V Launcher ###
