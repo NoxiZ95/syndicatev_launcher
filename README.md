@@ -1,6 +1,6 @@
 Coded in C# with Visual Studio Code | .NET 8.0 SDK Win-x64 | Standalone
 
-![alt text](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/svl_logo.png)
+![alt text](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/sv_show.png)
 
 ---------------------------------------------------------------------------
 ### Syndicate V Launcher ###
@@ -27,6 +27,11 @@ Um den Launcher zu starten muss nur die Syndicate V Launcher.exe gestartet werde
 
 ---------------------------------------------------------------------------
 ### Updates ###
+Update v0.3.0300
+- Musik-Mute Button hinzugefügt
+- Debug Modus hinzugefügt
+- Projekttext angepasst
+  
 Update v0.2.0250
 - Codebereinigung
 - Einige Funktionen bis zum nächsten Update deaktiviert
