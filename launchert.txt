@@ -1,16 +1,19 @@
-Syndicate V Launcher v0.x_DEV_C#
+Syndicate V Launcher v0.3.0300_C#
 
 Funktionen
 - Direktverbindung zum Game Server Syndicate V
 - Direktverbindung zum Handbuch des Servers
 - Direktverbindung zum Discord Server von Syndicate V
+- Direktverbindung zum Patreon Account von Syndicate V
+- Direktverbindung zum Instagram Account von Syndicate V
 - News Container
 - Release Countdown
+- Hintergrundmusik mit Mute Funktion
 
 Bekannte Probleme
 - Game Server Link öffnet den Browser
 
-Version 0.x_DEV
+Version 0.3.0300
 Scriptsprache: C# mit WindowsForms
 Art der Nutzung: Anwendung/.exe
 Minimieren, Maximieren, Hintergrund (Windows)
