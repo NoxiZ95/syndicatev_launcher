@@ -11,10 +11,9 @@ die neusten Updates inklusive.
 
 ---------------------------------------------------------------------------
 ### Funktionen ###
-- Direktzugriff auf den Gameserver (Launcher wird beim Anklicken beendet)
-- Direktzugriff auf das Server Handbuch
-- Direktzugriff auf den Server Discord
-- Direktzugriff auf den Projekt TikTok Account
+- Direktzugriff auf den Gameserver, Handbuch, Discord, Tiktok, Instagram und Patreon
+- Donation Link
+- Server Status
 - Newsfeld
 - Textfeld
 - Hintergrundmusik mit Mute Funktion
@@ -27,6 +26,13 @@ Um den Launcher zu starten muss nur die Syndicate V Launcher.exe gestartet werde
 
 ---------------------------------------------------------------------------
 ### Updates ###
+Update v0.5.0500
+- Donation Link
+- Server Status
+- Datenbankabruf ALPHA (XP System)
+- Patroen, Instagram Links hinzugefügt
+- Codebereinigung
+- 
 Update v0.3.0300
 - Musik-Mute Button hinzugefügt
 - Debug Modus hinzugefügt
@@ -40,4 +46,4 @@ Update v0.2.0200
 - Hintergrundmusik hinzugefügt
 
 ---------------------------------------------------------------------------
-Created by NoxiZ95 | bb-development / Syndicate V [FiveM] | Version 0.3.0300
+Created by NoxiZ95 | bb-development / Syndicate V [FiveM] | Version 0.5.0500
