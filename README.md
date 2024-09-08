@@ -17,6 +17,7 @@ die neusten Updates inklusive.
 - Newsfeld
 - Textfeld
 - Hintergrundmusik mit Mute Funktion
+- Live Serverdaten (XP System als Test)
   
 ---------------------------------------------------------------------------
 ### Installation ###
@@ -32,7 +33,8 @@ Update v0.5.0500
 - Datenbankabruf ALPHA (XP System)
 - Patroen, Instagram Links hinzugefügt
 - Codebereinigung
-- 
+- Livedaten Abruf (XP System)
+ 
 Update v0.3.0300
 - Musik-Mute Button hinzugefügt
 - Debug Modus hinzugefügt
