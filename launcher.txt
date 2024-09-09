@@ -1,20 +1,17 @@
-Syndicate V Launcher v0.3.0300_C#
+Syndicate V Launcher v0.5.0500
 
 Funktionen
-- Direktverbindung zum Game Server Syndicate V
-- Direktverbindung zum Handbuch des Servers
-- Direktverbindung zum Discord Server von Syndicate V
-- Direktverbindung zum Patreon Account von Syndicate V
-- Direktverbindung zum Instagram Account von Syndicate V
+- Direktverbindung zu Gameserver, Handbuch, Discord, Patreon, Instagram und Tiktok
 - News Container
 - Release Countdown
 - Hintergrundmusik mit Mute Funktion
+- Server Status
+- Livedaten Abruf (XP System als Test)
 
 Bekannte Probleme
-- Game Server Link öffnet den Browser
+Optische anpassungen
 
-Version 0.3.0300
+Version 0.5.0500
 Scriptsprache: C# mit WindowsForms
 Art der Nutzung: Anwendung/.exe
-Minimieren, Maximieren, Hintergrund (Windows)
-CPU Verbrauch: 0% RAM: ~16MB
+CPU Verbrauch: 0% RAM: ~35MB
