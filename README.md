@@ -1,4 +1,4 @@
-Coded in C# with Visual Studio Code | .NET 8.0 SDK Win-x64 | Standalone
+Coded in C# with Visual Studio Code | .NET 9.0 SDK (Pre) Win-x64 | Standalone
 
 ![alt text](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/Unbenannt.png)
 
@@ -27,6 +27,10 @@ Um den Launcher zu starten muss nur die Syndicate V Launcher.exe gestartet werde
 
 ---------------------------------------------------------------------------
 ### Updates ###
+Update v1.0 Final
+- Update auf .NET 9.0
+- Linkanpassung
+
 Update v0.6
 - Codebereinigung
 - Installer verfügbar
@@ -52,4 +56,4 @@ Update v0.2.0200
 - Hintergrundmusik hinzugefügt
 
 ---------------------------------------------------------------------------
-Created by NoxiZ95 | bb-development / Syndicate V [FiveM] | Version 0.6
+Created by NoxiZ95 | bb-development / Syndicate V [FiveM] | Version 1.0 Final
