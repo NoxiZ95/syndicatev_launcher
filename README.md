@@ -27,7 +27,7 @@ Um den Launcher zu starten muss nur die Syndicate V Launcher.exe gestartet werde
 
 ---------------------------------------------------------------------------
 ### Updates ###
-Update v1.0 Final
+Update v1.0
 - Update auf .NET 9.0
 - Linkanpassung
 
@@ -56,4 +56,4 @@ Update v0.2.0200
 - Hintergrundmusik hinzugefügt
 
 ---------------------------------------------------------------------------
-Created by NoxiZ95 | bb-development / Syndicate V [FiveM] | Version 1.0 Final
+Created by NoxiZ95 | bb-development / Syndicate V [FiveM] | Version 1.0
