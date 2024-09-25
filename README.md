@@ -1,6 +1,6 @@
 Coded in C# with Visual Studio Code | .NET 9.0 SDK (Pre) Win-x64 | Standalone
 
-![alt text](https://r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/Unbenannt.png)
+![alt text](https://images-ext-1.discordapp.net/external/H7Og3kjX3BJ5tSLO1Lqx9PthxLfL5-491nZkeJIPGrg/https/r2.fivemanage.com/sCsmI163imrqSgUxWLkCz/images/Unbenannt.png?format=webp&quality=lossless&width=1178&height=671)
 
 ---------------------------------------------------------------------------
 ### Syndicate V Launcher ###
