@@ -29,6 +29,10 @@ Um den Launcher zu starten muss nur die Syndicate V Launcher.exe gestartet werde
 
 ---------------------------------------------------------------------------
 ### Updates ###
+Update v1.4
+- Bereinigung
+- Spenden entfernt
+
 Update v1.2
 - Site Funktion added
 - Fixes
@@ -65,4 +69,4 @@ Update v0.2.0200
 - Hintergrundmusik hinzugefügt
 
 ---------------------------------------------------------------------------
-Created by NoxiZ95 | bb-development / Syndicate V [FiveM] | Version 1.2
+Created by NoxiZ95 | bb-development / Syndicate V [FiveM] | Version 1.4
